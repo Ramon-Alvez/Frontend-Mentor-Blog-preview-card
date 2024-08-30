@@ -1,0 +1,8 @@
+:root{
+    --background: hsl(47, 88%, 63%);
+
+    --card: hsl(0, 0%, 100%);
+
+    --fontSmooth: hsl(0, 0%, 42%);
+    --fontHeavy: hsl(0, 0%, 7%);
+}
