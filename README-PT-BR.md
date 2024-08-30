@@ -55,8 +55,8 @@ Aqui esta alguns prints da página
 
 ### Links
 
-- URL da Solução: [Add solution URL here](https://your-solution-url.com)
-- URL do Live Site: [Add live site URL here](https://your-live-site-url.com)
+- URL da Solução: https://github.com/Ramon-Alvez/Frontend-Mentor-Blog-preview-card
+- URL do Live Site: https://ramon-alvez.github.io/Frontend-Mentor-Blog-preview-card/
 
 [Índice](#conteúdo) - Clique para voltar para o índice "Conteúdo"
 
