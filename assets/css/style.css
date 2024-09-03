@@ -20,6 +20,11 @@ body{
     color: var(--fontHeavy);
     }
 
+    .previewCard:hover {
+        transform: scale(1.01);
+        transition: 0.3s ease-in;
+    }
+
     .previewCard .blogImage{
         width: 100%;
         border-radius: 10px; 
