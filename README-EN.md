@@ -55,8 +55,8 @@ Here some pics of the solution
 
 ### Links
 
-- Solution URL: https://github.com/Ramon-Alvez/Frontend-Mentor-Blog-preview-card
-- Live Site URL: https://ramon-alvez.github.io/Frontend-Mentor-Blog-preview-card/
+- Solution URL: [FrontEnd Mentor](https://github.com/Ramon-Alvez/Frontend-Mentor-Blog-preview-card)
+- Live Site URL: [Live Site](https://ramon-alvez.github.io/Frontend-Mentor-HTML-CSS-Newbie-Blog-preview-card/)
 
 [Table of contents](#table-of-contents) - Click to return to the index "Table of contents"
 
