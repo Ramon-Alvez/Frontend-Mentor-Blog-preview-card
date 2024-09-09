@@ -55,8 +55,8 @@ Aqui esta alguns prints da página
 
 ### Links
 
-- URL da Solução: https://github.com/Ramon-Alvez/Frontend-Mentor-Blog-preview-card
-- URL do Live Site: https://ramon-alvez.github.io/Frontend-Mentor-Blog-preview-card/
+- URL da Solução: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/-html5-e-css-3-newbie-blog-preview-card-TqO96YwLsz)
+- URL do Live Site: [Live Site](https://ramon-alvez.github.io/Frontend-Mentor-HTML-CSS-Newbie-Blog-preview-card/)
 
 [Índice](#conteúdo) - Clique para voltar para o índice "Conteúdo"
 
